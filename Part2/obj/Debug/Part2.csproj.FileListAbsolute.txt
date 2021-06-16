@@ -1,0 +1,6 @@
+C:\Users\admin\RiderProjects\Raw\Lab5\Part2\bin\Debug\Part2.exe
+C:\Users\admin\RiderProjects\Raw\Lab5\Part2\bin\Debug\Part2.pdb
+C:\Users\admin\RiderProjects\Raw\Lab5\Part2\obj\Debug\Part2.csprojAssemblyReference.cache
+C:\Users\admin\RiderProjects\Raw\Lab5\Part2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\Raw\Lab5\Part2\obj\Debug\Part2.exe
+C:\Users\admin\RiderProjects\Raw\Lab5\Part2\obj\Debug\Part2.pdb

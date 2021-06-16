@@ -12,56 +12,32 @@
   <component name="ChangeListManager">
     <list default="true" id="32ec433e-76ff-4b41-98d6-213525dd86dd" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Lab4/Lab4.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab5/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab5/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Lab5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/Ex1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/Ex1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/bin/Debug/Ex1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/bin/Debug/Ex1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/obj/Debug/Ex1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/obj/Debug/Ex1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/obj/Debug/Ex1.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/obj/Debug/Ex1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/obj/Debug/Ex1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1/obj/Debug/Lab5.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/Ex2.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/Ex2.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/bin/Debug/Ex2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/bin/Debug/Ex2.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex3/Ex3.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex3/Ex3.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex3/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex3/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinallyStm/FinallyDemo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinallyStm/FinallyStmt.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinallyStm/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinallyStm/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NameSpace/NameSpace.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NameSpace/NameSpace.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NameSpace/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NameSpace/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part1/Part1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part1/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part1/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part2/Part2.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part2/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part2/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part2/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/AbstractTeacher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/AmountException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/HighSchoolTeacher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part2/UniversityTeacher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/.idea/.idea.Works/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/.idea/.idea.Works/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/.idea/.idea.Works/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/.idea/.idea.Works/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/Product.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/Works.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/bin/Debug/Works.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/bin/Debug/Works.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/obj/Debug/Works.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/obj/Debug/Works.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/obj/Debug/Works.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/obj/Debug/Works.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Works/Works/obj/Debug/Works.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab4/.idea/.idea.Lab4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/.idea/.idea.Lab4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ex2/obj/Debug/Ex2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2/Part2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Part2/Part2.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Part2/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +45,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -84,10 +60,17 @@
       <option value="$PROJECT_DIR$/NameSpace/NameSpace.cs" />
       <option value="$PROJECT_DIR$/FinallyStm/FinallyDemo.cs" />
       <option value="$PROJECT_DIR$/Part1/Program.cs" />
+      <option value="$PROJECT_DIR$/Part2/AbstractTeacher.cs" />
+      <option value="$PROJECT_DIR$/Part2/AmountException.cs" />
+      <option value="$PROJECT_DIR$/Part2/HighSchoolTeacher.cs" />
+      <option value="$PROJECT_DIR$/Part2/UniversityTeacher.cs" />
       <option value="$PROJECT_DIR$/Part2/Program.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1u0wLKy9gNfUmiLBmI9pnCckSqc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -104,7 +87,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.Ex2">
+  <component name="RunManager" selected=".NET Project.Part2">
     <configuration name="Ex1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -258,14 +241,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623815765356</updated>
-      <workItem from="1623815773882" duration="1804000" />
+      <workItem from="1623815773882" duration="3638000" />
+      <workItem from="1623857013951" duration="295000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -277,5 +261,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
